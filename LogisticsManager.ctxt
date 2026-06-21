@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LogisticsManager
+comment1.params=
+comment1.target=LogisticsManager()
+comment2.params=fileName
+comment2.target=java.lang.String\ readManifestFile(java.lang.String)
+comment3.params=
+comment3.target=void\ distributeCarriersLogic()
+comment4.params=
+comment4.target=java.lang.String\ getQueue1Display()
+comment5.params=
+comment5.target=java.lang.String\ getQueue2Display()
+comment6.params=
+comment6.target=java.lang.String\ getQueue3Display()
+comment7.params=
+comment7.target=java.lang.String\ processSettlement()
+comment8.params=q
+comment8.target=java.lang.String\ getQueueContentsString(java.util.Queue)
+numComments=9

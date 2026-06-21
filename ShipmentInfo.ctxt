@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ShipmentInfo
+comment1.params=shipmentId\ packageType\ ecoPriorityScore\ dispatchDate\ estimatedTransitTime\ carbonTaxCost
+comment1.target=ShipmentInfo(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getShipmentId()
+comment3.params=
+comment3.target=java.lang.String\ getPackageType()
+comment4.params=
+comment4.target=int\ getEcoPriorityScore()
+comment5.params=
+comment5.target=java.lang.String\ getDispatchDate()
+comment6.params=
+comment6.target=int\ getEstimatedTransitTime()
+comment7.params=
+comment7.target=double\ getCarbonTaxCost()
+numComments=8

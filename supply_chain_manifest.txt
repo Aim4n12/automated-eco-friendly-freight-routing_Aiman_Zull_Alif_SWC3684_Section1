@@ -1,0 +1,210 @@
+CR001,Pos Laju Malaysia,Electric Van,SHP001,Perishables,5,2026-06-02,12,450.00
+CR001,Pos Laju Malaysia,Electric Van,SHP002,Standard Electronics,4,2026-06-02,10,300.00
+CR002,J&T Express,Hybrid Truck,SHP003,Hazardous Materials,2,2026-06-03,24,800.00
+CR003,Ninja Van,Drone Delivery,SHP004,Bulk Apparel,3,2026-06-04,48,1500.00
+CR003,Ninja Van,Drone Delivery,SHP005,Bulk Apparel,3,2026-06-04,48,1200.00
+CR003,Ninja Van,Drone Delivery,SHP006,Standard Electronics,4,2026-06-04,36,900.00
+CR003,Ninja Van,Drone Delivery,SHP007,Perishables,5,2026-06-04,12,600.00
+CR004,GDEX,Electric Van,SHP008,Standard Electronics,5,2026-06-05,2,50.00
+CR004,GDEX,Electric Van,SHP009,Perishables,5,2026-06-05,1,30.00
+CR005,DHL Ecommerce,Hybrid Truck,SHP010,Bulk Apparel,4,2026-06-06,18,350.00
+CR005,DHL Ecommerce,Hybrid Truck,SHP011,Standard Electronics,3,2026-06-06,12,250.00
+CR005,DHL Ecommerce,Hybrid Truck,SHP012,Perishables,5,2026-06-06,8,150.00
+CR005,DHL Ecommerce,Hybrid Truck,SHP013,Hazardous Materials,1,2026-06-06,24,950.00
+CR006,City-Link Express,Electric Van,SHP014,Standard Electronics,4,2026-06-07,6,120.00
+CR007,Shopee Xpress,Electric Van,SHP015,Bulk Apparel,5,2026-06-07,5,80.00
+CR007,Shopee Xpress,Electric Van,SHP016,Standard Electronics,4,2026-06-07,4,90.00
+CR008,Lalamove Malaysia,Hybrid Truck,SHP017,Perishables,5,2026-06-08,3,75.00
+CR008,Lalamove Malaysia,Hybrid Truck,SHP018,Standard Electronics,4,2026-06-08,2,60.00
+CR008,Lalamove Malaysia,Hybrid Truck,SHP019,Bulk Apparel,3,2026-06-08,4,55.00
+CR009,FedEx Malaysia,Freight Train,SHP020,Hazardous Materials,2,2026-06-09,48,2500.00
+CR009,FedEx Malaysia,Freight Train,SHP021,Bulk Apparel,3,2026-06-09,48,1800.00
+CR009,FedEx Malaysia,Freight Train,SHP022,Standard Electronics,4,2026-06-09,36,1300.00
+CR009,FedEx Malaysia,Freight Train,SHP023,Perishables,5,2026-06-09,24,950.00
+CR009,FedEx Malaysia,Freight Train,SHP024,Bulk Apparel,3,2026-06-09,48,1100.00
+CR010,Kangaroo Express,Electric Van,SHP025,Standard Electronics,4,2026-06-10,12,190.00
+CR001,Pos Laju Malaysia,Electric Van,SHP026,Standard Electronics,4,2026-06-10,10,280.00
+CR001,Pos Laju Malaysia,Electric Van,SHP027,Bulk Apparel,4,2026-06-10,14,170.00
+CR002,J&T Express,Hybrid Truck,SHP028,Perishables,5,2026-06-11,20,520.00
+CR002,J&T Express,Hybrid Truck,SHP029,Standard Electronics,4,2026-06-11,18,410.00
+CR004,GDEX,Electric Van,SHP030,Bulk Apparel,3,2026-06-11,6,110.00
+CR004,GDEX,Electric Van,SHP031,Hazardous Materials,2,2026-06-11,8,670.00
+CR006,City-Link Express,Electric Van,SHP032,Perishables,5,2026-06-12,8,210.00
+CR006,City-Link Express,Electric Van,SHP033,Bulk Apparel,4,2026-06-12,10,140.00
+CR006,City-Link Express,Electric Van,SHP034,Standard Electronics,4,2026-06-12,7,180.00
+CR007,Shopee Xpress,Electric Van,SHP035,Standard Electronics,4,2026-06-13,6,105.00
+CR010,Kangaroo Express,Electric Van,SHP036,Bulk Apparel,3,2026-06-13,15,135.00
+CR010,Kangaroo Express,Electric Van,SHP037,Perishables,5,2026-06-13,10,225.00
+CR003,Ninja Van,Drone Delivery,SHP038,Standard Electronics,4,2026-06-14,24,750.00
+CR008,Lalamove Malaysia,Hybrid Truck,SHP039,Hazardous Materials,1,2026-06-14,6,890.00
+CR005,DHL Ecommerce,Hybrid Truck,SHP040,Standard Electronics,4,2026-06-15,14,310.00
+CR011,Line Clear Express,Electric Van,SHP041,Bulk Apparel,4,2026-06-15,12,150.00
+CR011,Line Clear Express,Electric Van,SHP042,Standard Electronics,4,2026-06-15,10,180.00
+CR012,ABX Express,Hybrid Truck,SHP043,Perishables,5,2026-06-16,8,220.00
+CR012,ABX Express,Hybrid Truck,SHP044,Bulk Apparel,3,2026-06-16,12,130.00
+CR012,ABX Express,Hybrid Truck,SHP045,Standard Electronics,4,2026-06-16,9,190.00
+CR013,TNT Malaysia,Freight Train,SHP046,Hazardous Materials,2,2026-06-17,36,2100.00
+CR013,TNT Malaysia,Freight Train,SHP047,Bulk Apparel,4,2026-06-17,48,1400.00
+CR013,TNT Malaysia,Freight Train,SHP048,Standard Electronics,4,2026-06-17,40,1650.00
+CR013,TNT Malaysia,Freight Train,SHP049,Perishables,5,2026-06-17,24,850.00
+CR014,ZTO Express,Electric Van,SHP050,Standard Electronics,4,2026-06-18,6,115.00
+CR014,ZTO Express,Electric Van,SHP051,Bulk Apparel,5,2026-06-18,5,75.00
+CR015,Best Express,Drone Delivery,SHP052,Perishables,5,2026-06-18,2,45.00
+CR015,Best Express,Drone Delivery,SHP053,Standard Electronics,4,2026-06-18,1,55.00
+CR011,Line Clear Express,Electric Van,SHP054,Perishables,5,2026-06-19,11,200.00
+CR012,ABX Express,Hybrid Truck,SHP055,Hazardous Materials,1,2026-06-19,18,790.00
+CR014,ZTO Express,Electric Van,SHP056,Perishables,5,2026-06-20,4,95.00
+CR016,Pgeon Delivery,Electric Van,SHP057,Bulk Apparel,4,2026-06-20,8,110.00
+CR016,Pgeon Delivery,Electric Van,SHP058,Standard Electronics,4,2026-06-20,7,125.00
+CR016,Pgeon Delivery,Electric Van,SHP059,Perishables,5,2026-06-20,6,160.00
+CR017,Pickupp Malaysia,Drone Delivery,SHP060,Standard Electronics,5,2026-06-21,3,65.00
+CR017,Pickupp Malaysia,Drone Delivery,SHP061,Bulk Apparel,4,2026-06-21,2,40.00
+CR018,Bungkusit,Electric Van,SHP062,Perishables,5,2026-06-21,1,35.00
+CR019,Anteraja Malaysia,Hybrid Truck,SHP063,Standard Electronics,4,2026-06-22,14,290.00
+CR019,Anteraja Malaysia,Hybrid Truck,SHP064,Bulk Apparel,3,2026-06-22,16,195.00
+CR019,Anteraja Malaysia,Hybrid Truck,SHP065,Perishables,5,2026-06-22,10,240.00
+CR020,Flash Express,Electric Van,SHP066,Hazardous Materials,2,2026-06-23,12,680.00
+CR020,Flash Express,Electric Van,SHP067,Standard Electronics,4,2026-06-23,8,175.00
+CR020,Flash Express,Electric Van,SHP068,Bulk Apparel,4,2026-06-23,9,130.00
+CR016,Pgeon Delivery,Electric Van,SHP069,Bulk Apparel,4,2026-06-24,8,105.00
+CR017,Pickupp Malaysia,Drone Delivery,SHP070,Perishables,5,2026-06-24,2,50.00
+CR018,Bungkusit,Electric Van,SHP071,Standard Electronics,4,2026-06-24,2,65.00
+CR021,The Lorry,Hybrid Truck,SHP072,Bulk Apparel,3,2026-06-25,24,1200.00
+CR021,The Lorry,Hybrid Truck,SHP073,Standard Electronics,4,2026-06-25,20,980.00
+CR021,The Lorry,Hybrid Truck,SHP074,Perishables,5,2026-06-25,12,750.00
+CR021,The Lorry,Hybrid Truck,SHP075,Hazardous Materials,1,2026-06-25,24,1600.00
+CR022,Teleport Air Asia,Drone Delivery,SHP076,Standard Electronics,5,2026-06-26,4,320.00
+CR022,Teleport Air Asia,Drone Delivery,SHP077,Perishables,5,2026-06-26,3,410.00
+CR023,KTMD (KTM Distribution),Freight Train,SHP078,Bulk Apparel,4,2026-06-27,30,1150.00
+CR023,KTMD (KTM Distribution),Freight Train,SHP079,Standard Electronics,4,2026-06-27,24,940.00
+CR023,KTMD (KTM Distribution),Freight Train,SHP080,Perishables,5,2026-06-27,18,800.00
+CR023,KTMD (KTM Distribution),Freight Train,SHP081,Hazardous Materials,2,2026-06-27,36,1900.00
+CR024,Maju Logistics,Hybrid Truck,SHP082,Bulk Apparel,3,2026-06-28,15,450.00
+CR024,Maju Logistics,Hybrid Truck,SHP083,Standard Electronics,4,2026-06-28,12,380.00
+CR025,Skynet Malaysia,Electric Van,SHP084,Perishables,5,2026-06-28,10,230.00
+CR025,Skynet Malaysia,Electric Van,SHP085,Standard Electronics,4,2026-06-28,8,190.00
+CR025,Skynet Malaysia,Electric Van,SHP086,Bulk Apparel,4,2026-06-28,9,140.00
+CR022,Teleport Air Asia,Drone Delivery,SHP087,Bulk Apparel,4,2026-06-29,4,280.00
+CR024,Maju Logistics,Hybrid Truck,SHP088,Perishables,5,2026-06-29,10,310.00
+CR026,Nationwide Express,Electric Van,SHP089,Standard Electronics,4,2026-06-30,12,185.00
+CR026,Nationwide Express,Electric Van,SHP090,Bulk Apparel,3,2026-06-30,14,130.00
+CR027,Aramex Malaysia,Hybrid Truck,SHP091,Hazardous Materials,2,2026-07-01,24,920.00
+CR027,Aramex Malaysia,Hybrid Truck,SHP092,Standard Electronics,4,2026-07-01,18,460.00
+CR027,Aramex Malaysia,Hybrid Truck,SHP093,Perishables,5,2026-07-01,12,380.00
+CR028,UPS Malaysia,Freight Train,SHP094,Bulk Apparel,3,2026-07-02,40,1450.00
+CR028,UPS Malaysia,Freight Train,SHP095,Standard Electronics,4,2026-07-02,36,1200.00
+CR028,UPS Malaysia,Freight Train,SHP096,Perishables,5,2026-07-02,20,890.00
+CR028,UPS Malaysia,Freight Train,SHP097,Hazardous Materials,2,2026-07-02,48,2200.00
+CR029,GrabExpress,Electric Van,SHP098,Perishables,5,2026-07-03,2,40.00
+CR029,GrabExpress,Electric Van,SHP099,Standard Electronics,5,2026-07-03,1,50.00
+CR030,Ta-Q-Bin Malaysia,Electric Van,SHP100,Standard Electronics,4,2026-07-03,8,160.00
+CR031,Line Clear Express,Electric Van,SHP101,Standard Electronics,4,2026-06-15,10,180.00
+CR031,Line Clear Express,Electric Van,SHP102,Perishables,5,2026-06-15,8,220.00
+CR032,ABX Express,Hybrid Truck,SHP103,Bulk Apparel,3,2026-06-16,12,130.00
+CR032,ABX Express,Hybrid Truck,SHP104,Standard Electronics,4,2026-06-16,9,190.00
+CR032,ABX Express,Hybrid Truck,SHP105,Hazardous Materials,1,2026-06-16,18,790.00
+CR033,TNT Malaysia,Freight Train,SHP106,Hazardous Materials,2,2026-06-17,36,2100.00
+CR033,TNT Malaysia,Freight Train,SHP107,Bulk Apparel,4,2026-06-17,48,1400.00
+CR033,TNT Malaysia,Freight Train,SHP108,Standard Electronics,4,2026-06-17,40,1650.00
+CR033,TNT Malaysia,Freight Train,SHP109,Perishables,5,2026-06-17,24,850.00
+CR034,ZTO Express,Electric Van,SHP110,Standard Electronics,4,2026-06-18,6,115.00
+CR034,ZTO Express,Electric Van,SHP111,Bulk Apparel,5,2026-06-18,5,75.00
+CR034,ZTO Express,Electric Van,SHP112,Perishables,5,2026-06-20,4,95.00
+CR035,Best Express,Drone Delivery,SHP113,Perishables,5,2026-06-18,2,45.00
+CR035,Best Express,Drone Delivery,SHP114,Standard Electronics,4,2026-06-18,1,55.00
+CR036,Pgeon Delivery,Electric Van,SHP115,Bulk Apparel,4,2026-06-20,8,110.00
+CR036,Pgeon Delivery,Electric Van,SHP116,Standard Electronics,4,2026-06-20,7,125.00
+CR036,Pgeon Delivery,Electric Van,SHP117,Perishables,5,2026-06-20,6,160.00
+CR036,Pgeon Delivery,Electric Van,SHP118,Bulk Apparel,4,2026-06-24,8,105.00
+CR037,Pickupp Malaysia,Drone Delivery,SHP119,Standard Electronics,5,2026-06-21,3,65.00
+CR037,Pickupp Malaysia,Drone Delivery,SHP120,Bulk Apparel,4,2026-06-21,2,40.00
+CR037,Pickupp Malaysia,Drone Delivery,SHP121,Perishables,5,2026-06-24,2,50.00
+CR038,Bungkusit,Electric Van,SHP122,Perishables,5,2026-06-21,1,35.00
+CR038,Bungkusit,Electric Van,SHP123,Standard Electronics,4,2026-06-24,2,65.00
+CR039,Anteraja Malaysia,Hybrid Truck,SHP124,Standard Electronics,4,2026-06-22,14,290.00
+CR039,Anteraja Malaysia,Hybrid Truck,SHP125,Bulk Apparel,3,2026-06-22,16,195.00
+CR039,Anteraja Malaysia,Hybrid Truck,SHP126,Perishables,5,2026-06-22,10,240.00
+CR040,Flash Express,Electric Van,SHP127,Hazardous Materials,2,2026-06-23,12,680.00
+CR040,Flash Express,Electric Van,SHP128,Standard Electronics,4,2026-06-23,8,175.00
+CR040,Flash Express,Electric Van,SHP129,Bulk Apparel,4,2026-06-23,9,130.00
+CR041,The Lorry,Hybrid Truck,SHP130,Bulk Apparel,3,2026-06-25,24,1200.00
+CR041,The Lorry,Hybrid Truck,SHP131,Standard Electronics,4,2026-06-25,20,980.00
+CR041,The Lorry,Hybrid Truck,SHP132,Perishables,5,2026-06-25,12,750.00
+CR041,The Lorry,Hybrid Truck,SHP133,Hazardous Materials,1,2026-06-25,24,1600.00
+CR042,Teleport Air Asia,Drone Delivery,SHP134,Standard Electronics,5,2026-06-26,4,320.00
+CR042,Teleport Air Asia,Drone Delivery,SHP135,Perishables,5,2026-06-26,3,410.00
+CR042,Teleport Air Asia,Drone Delivery,SHP136,Bulk Apparel,4,2026-06-29,4,280.00
+CR043,KTMD Distribution,Freight Train,SHP137,Bulk Apparel,4,2026-06-27,30,1150.00
+CR043,KTMD Distribution,Freight Train,SHP138,Standard Electronics,4,2026-06-27,24,940.00
+CR043,KTMD Distribution,Freight Train,SHP139,Perishables,5,2026-06-27,18,800.00
+CR043,KTMD Distribution,Freight Train,SHP140,Hazardous Materials,2,2026-06-27,36,1900.00
+CR044,Maju Logistics,Hybrid Truck,SHP141,Bulk Apparel,3,2026-06-28,15,450.00
+CR044,Maju Logistics,Hybrid Truck,SHP142,Standard Electronics,4,2026-06-28,12,380.00
+CR044,Maju Logistics,Hybrid Truck,SHP143,Perishables,5,2026-06-29,10,310.00
+CR045,Skynet Malaysia,Electric Van,SHP144,Perishables,5,2026-06-28,10,230.00
+CR045,Skynet Malaysia,Electric Van,SHP145,Standard Electronics,4,2026-06-28,8,190.00
+CR045,Skynet Malaysia,Electric Van,SHP146,Bulk Apparel,4,2026-06-28,9,140.00
+CR046,Nationwide Express,Electric Van,SHP147,Standard Electronics,4,2026-06-30,12,185.00
+CR046,Nationwide Express,Electric Van,SHP148,Bulk Apparel,3,2026-06-30,14,130.00
+CR047,Aramex Malaysia,Hybrid Truck,SHP149,Hazardous Materials,2,2026-07-01,24,920.00
+CR047,Aramex Malaysia,Hybrid Truck,SHP150,Standard Electronics,4,2026-07-01,18,460.00
+CR047,Aramex Malaysia,Hybrid Truck,SHP151,Perishables,5,2027-07-01,12,380.00
+CR048,UPS Malaysia,Freight Train,SHP152,Bulk Apparel,3,2026-07-02,40,1450.00
+CR048,UPS Malaysia,Freight Train,SHP153,Standard Electronics,4,2026-07-02,36,1200.00
+CR048,UPS Malaysia,Freight Train,SHP154,Perishables,5,2026-07-02,20,890.00
+CR048,UPS Malaysia,Freight Train,SHP155,Hazardous Materials,2,2026-07-02,48,2200.00
+CR049,GrabExpress,Electric Van,SHP156,Perishables,5,2026-07-03,2,40.00
+CR049,GrabExpress,Electric Van,SHP157,Standard Electronics,5,2026-07-03,1,50.00
+CR050,Ta-Q-Bin Malaysia,Electric Van,SHP158,Standard Electronics,4,2026-07-03,8,160.00
+CR051,Pos Laju Malaysia,Electric Van,SHP159,Standard Electronics,4,2026-07-04,11,195.00
+CR052,J&T Express,Hybrid Truck,SHP160,Bulk Apparel,3,2026-07-04,14,120.00
+CR053,Ninja Van,Drone Delivery,SHP161,Perishables,5,2026-07-05,2,45.00
+CR054,GDEX,Electric Van,SHP162,Standard Electronics,4,2026-07-05,6,110.00
+CR055,DHL Ecommerce,Hybrid Truck,SHP163,Hazardous Materials,1,2026-07-06,12,850.00
+CR056,City-Link Express,Electric Van,SHP164,Bulk Apparel,4,2026-07-06,8,95.00
+CR057,Shopee Xpress,Electric Van,SHP165,Standard Electronics,5,2026-07-07,4,85.00
+CR058,Lalamove Malaysia,Hybrid Truck,SHP166,Perishables,5,2026-07-07,3,70.00
+CR059,FedEx Malaysia,Freight Train,SHP167,Bulk Apparel,3,2026-07-08,24,980.00
+CR060,Kangaroo Express,Electric Van,SHP168,Standard Electronics,4,2026-07-08,10,140.00
+CR061,Line Clear Express,Electric Van,SHP169,Bulk Apparel,4,2026-07-09,9,115.00
+CR062,ABX Express,Hybrid Truck,SHP170,Standard Electronics,4,2026-07-09,12,175.00
+CR063,ABX Express,Hybrid Truck,SHP171,Medical Supplies,2,2026-07-10,14,120.50
+CR064,DHL Express,EV Van,SHP172,Perishable Foods,1,2026-07-10,8,65.00
+CR065,FedEx Cargo,Electric Lorry,SHP173,Heavy Machinery,5,2026-07-11,48,450.00
+CR066,GDEX Eco,Biofuel Truck,SHP174,Apparel & Textiles,3,2026-07-11,18,95.00
+CR067,PosLaju Green,Hybrid Motorcycle,SHP175,Legal Documents,1,2026-07-12,6,25.00
+CR068,J&T Eco,EV Van,SHP176,Chemical Supplies,4,2026-07-12,24,210.00
+CR069,NinjaVan Carbon,Electric Lorry,SHP177,Luxury Goods,2,2026-07-13,16,320.00
+CR070,ABX Express,Hybrid Truck,SHP178,Automotive Parts,3,2026-07-13,20,185.50
+CR071,DHL Express,EV Van,SHP179,Standard Electronics,2,2026-07-14,10,85.00
+CR072,FedEx Cargo,Electric Lorry,SHP180,Industrial Tools,4,2026-07-14,36,290.00
+CR073,GDEX Eco,Biofuel Truck,SHP181,Pharmaceuticals,1,2026-07-15,12,140.00
+CR074,PosLaju Green,Hybrid Motorcycle,SHP182,Online Parcels,1,2026-07-15,7,30.00
+CR075,J&T Eco,EV Van,SHP183,Home Appliances,3,2026-07-16,22,165.00
+CR076,NinjaVan Carbon,Electric Lorry,SHP184,Raw Polymers,5,2026-07-16,72,520.00
+CR077,ABX Express,Hybrid Truck,SHP185,Cosmetics,2,2026-07-17,15,75.00
+CR078,DHL Express,EV Van,SHP186,Dry Rations,1,2026-07-17,9,45.00
+CR079,FedEx Cargo,Electric Lorry,SHP187,Electronic Chips,2,2026-07-18,11,195.00
+CR080,GDEX Eco,Biofuel Truck,SHP188,Office Stationery,1,2026-07-18,14,50.00
+CR081,PosLaju Green,Hybrid Motorcycle,SHP189,Priority Letters,1,2026-07-19,5,20.00
+CR082,J&T Eco,EV Van,SHP190,Sporting Goods,3,2026-07-19,19,110.00
+CR083,NinjaVan Carbon,Electric Lorry,SHP191,Construction Steel,5,2026-07-20,60,480.00
+CR084,ABX Express,Hybrid Truck,SHP192,E-Commerce Orders,2,2026-07-20,13,80.00
+CR063,ABX Express,Hybrid Truck,SHP171,Medical Supplies,2,2026-07-10,14,120.50
+CR085,DHL Express,EV Van,SHP193,Laboratory Glass,4,2026-07-21,26,230.00
+CR086,FedEx Cargo,Electric Lorry,SHP194,Fresh Seafood,3,2026-07-21,30,175.00
+CR087,GDEX Eco,Biofuel Truck,SHP195,Battery Packs,4,2026-07-22,28,310.00
+CR088,PosLaju Green,Hybrid Motorcycle,SHP196,Small Parcels,1,2026-07-22,8,35.00
+CR089,J&T Eco,EV Van,SHP197,Printed Books,2,2026-07-23,17,60.00
+CR090,NinjaVan Carbon,Electric Lorry,SHP198,Solar Panels,5,2026-07-23,42,410.00
+CR091,ABX Express,Hybrid Truck,SHP199,Hardware Tools,3,2026-07-24,21,115.00
+CR092,DHL Express,EV Van,SHP200,Frozen Poultry,2,2026-07-24,16,90.00
+CR093,FedEx Cargo,Electric Lorry,SHP201,Server Racks,4,2026-07-25,34,380.00
+CR094,GDEX Eco,Biofuel Truck,SHP202,Leather Footwear,2,2026-07-25,20,105.00
+CR092,DHL Express,EV Van,SHP200,Frozen Poultry,2,2026-07-24,16,90.00
+CR095,PosLaju Green,Hybrid Motorcycle,SHP203,Urgent Passports,1,2026-07-26,4,40.00
+CR096,J&T Eco,EV Van,SHP204,Organic Fertilizers,3,2026-07-26,25,135.00
+CR097,NinjaVan Carbon,Electric Lorry,SHP205,Heavy Transformer,5,2026-07-27,80,650.00
+CR098,ABX Express,Hybrid Truck,SHP206,Ceramic Tiles,4,2026-07-27,32,240.00
+CR099,DHL Express,EV Van,SHP207,Fragile Artworks,3,2026-07-28,15,300.00
+CR100,FedEx Cargo,Electric Lorry,SHP208,Aircraft Spares,5,2026-07-28,50,750.00
