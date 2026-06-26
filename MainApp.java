@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+//interface coding
 public class MainApp extends JFrame {
     private LogisticsManager manager;
     private JTextArea outputArea;
@@ -52,7 +53,7 @@ public class MainApp extends JFrame {
         add(scrollPane, BorderLayout.CENTER);
         add(panelButang, BorderLayout.SOUTH);
 
-        // --- MICRO-STEP CONTROLLER ---
+        // MICRO-STEP CONTROLLER
         btnAction.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 switch (currentStep) {
@@ -138,7 +139,7 @@ public class MainApp extends JFrame {
             }
         });
     }
-
+//main method to run
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
             public void run() {
