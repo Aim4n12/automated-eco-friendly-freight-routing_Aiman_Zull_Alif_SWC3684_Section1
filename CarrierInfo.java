@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class CarrierInfo {
+public class CarrierInfo { // declare carrier info sush as carrier id and carrier name
     private String carrierId;
     private String carrierName;
     private String fleetType;
