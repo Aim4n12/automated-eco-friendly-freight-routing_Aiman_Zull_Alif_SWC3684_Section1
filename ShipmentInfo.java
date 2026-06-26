@@ -1,4 +1,4 @@
-public class ShipmentInfo {
+public class ShipmentInfo { // declare shiptment info 
     private String shipmentId;
     private String packageType;
     private int ecoPriorityScore;
